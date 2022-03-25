@@ -1,4 +1,4 @@
-Warsztat polegający na utworzenie gry przypominającej popularnego "Snake" w języku JavaScript.
+Warsztat polegający na utworzeniu gry przypominającej popularnego "Snake" w języku JavaScript.
 
 Wykorzystane narzędzia i technologie: HTML, SASS, JS ES6, Webpack, Babel
 
